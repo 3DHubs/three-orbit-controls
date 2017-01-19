@@ -1,4 +1,4 @@
-module.exports = function( THREE ) {
+// module.exports = function( THREE ) {
 	/**
 	 * @author qiao / https://github.com/qiao
 	 * @author mrdoob / http://mrdoob.com
@@ -1016,5 +1016,5 @@ module.exports = function( THREE ) {
 
 	} );
 
-	return OrbitControls;
-};
+// 	return OrbitControls;
+// };
